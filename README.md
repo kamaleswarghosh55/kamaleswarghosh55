@@ -1,4 +1,4 @@
-![👋 Hi, my name is Kamaleswar Ghosh](https://scrimba.com/articles/content/images/size/w2000/2022/08/Coding-or-Programming_-What-Is-the-Difference_-main-1.png)
+![ Hi, my name is Kamaleswar Ghosh](https://scrimba.com/articles/content/images/size/w2000/2022/08/Coding-or-Programming_-What-Is-the-Difference_-main-1.png)
 
 ![Profile views](https://komarev.com/ghpvc/?username=kamaleswarghosh55&label=Profile%20views&color=0e75b6&style=flat)
 
@@ -6,7 +6,7 @@
   <ul align="center" style="list-style: none">
     <summary>
       <h1>
-        👋 Hi, my name is Kamaleswar Ghosh
+         Hi, my name is Kamaleswar Ghosh
       </h1>
     </summary>
   </ul>
